@@ -7,11 +7,11 @@ require 'fileutils'
 class Twitter_Bot
   def initialize()
 
-    @Api_Key = "VlxVgajUpcyzAjcvIvES9Ebdk"
-    @Api_Secret_Key = "ePh0ixWRMIttos89k0qSGUOoE3OUCYou8Ror2oaRqG1LJUSK3a"
+    @Api_Key = "/"
+    @Api_Secret_Key = "/"
 
-    @Acces_Token = "1348050630246604805-L0O2nZcmJD8GjSWy2tdDDBOKI1GK02"
-    @Acces_Token_Secret = "nzXgxD0uyPddW3bfec3yywtL07ii0M2mLq4kVvtEfgEs9"
+    @Acces_Token = "/"
+    @Acces_Token_Secret = "/"
 
     @Token = ""
 
